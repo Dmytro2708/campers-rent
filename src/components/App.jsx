@@ -1,16 +1,7 @@
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-    Campers-rent
+    <div>
+    <h1>Campers-rent</h1>
     </div>
   );
 };
